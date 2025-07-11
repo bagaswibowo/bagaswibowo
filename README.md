@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bagas Wibowo</h1>
-<h3 align="center">A passionate UI/UX Designer ann AI/Machine Learning</h3>
+<h3 align="center">A passionate UI/UX Designer and AI/Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagaswibowo&label=Profile%20views&color=0e75b6&style=flat" alt="bagaswibowo" /> </p>
 
